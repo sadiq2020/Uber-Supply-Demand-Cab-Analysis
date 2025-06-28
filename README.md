@@ -9,3 +9,8 @@ As a data analyst, my goal was to perform the following:
 1. Identify the root causes of the supply-demand gap.
 2. Recommend data-driven improvements.
 3. Present the findings to the CEO (hypothetically)
+
+## Data Summary
+Source: Kaggle - Uber Request Data.xlsx
+
+Fields: Request ID, Pickup Point (City/Airport), Status (Completed, Cancelled, No Cars Available), Timestamps
